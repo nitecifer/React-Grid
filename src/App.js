@@ -1,11 +1,11 @@
 import React from 'react'
 import "./App.css"
+import { Grid } from './Grid'
 
 const App = () => {
   return (
     <div>
-
-introduction css grid
+<Grid/>
 
     </div>
   )
